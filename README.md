@@ -1,2 +1,3 @@
-# genuine-network-multiparty-entanglement-Isng-data
-Numerical data used to generate the figures for the study of genuine multipartite entanglement measures in quantum Ising models and benchmark states.
+# Data Repository for the manuscript Network-Irreducible Multiparty Entanglement in Quantum Matter
+
+It contains all numerical data for Figure 2,3, and 4. 
